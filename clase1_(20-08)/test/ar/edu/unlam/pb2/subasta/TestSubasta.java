@@ -1,10 +1,9 @@
 package ar.edu.unlam.pb2.subasta;
 
-import org.junit.Assert; 
+import org.junit.Assert;
 import org.junit.Test;
 
-public class SubastaTest {
-
+public class TestSubasta {
 	@Test
 	public void testQueSePuedaCrearUnaSubasta() {
 		Subasta miSubasta = new Subasta(40);
